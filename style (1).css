@@ -11,6 +11,7 @@ body {
   color: #333;
   margin: 0;
   background: url("https://pbs.twimg.com/media/ESH-qlQWAAIEEqF.jpg:large");
+  justify-content: center;
 }
 
 h1 {
